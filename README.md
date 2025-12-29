@@ -105,11 +105,7 @@ npm run build
 ### Unavailable Product
 ![Unavailable](./screenshots/unavailable.png)
 
-## 👨‍💻 Author
 
-**fakrul**
-- GitHub: fakrl (https://github.com/fakrl)
-- LinkedIn: Fakhrul Mukhlisin (https://linkedin.com/in/fakrl)
 
 ## 📝 License
 
